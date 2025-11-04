@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="LIVE-BIKE-IT@mittwald" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="LIVE-BIKE-IT@mittwald">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/html/BIKE_IT" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

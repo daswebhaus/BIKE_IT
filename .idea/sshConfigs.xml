@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="bikeit.de" id="1a9f842c-6428-4a28-8b87-c895756ba7fd" port="22" customName="LIVE-BIKE-IT@mittwald" nameFormat="CUSTOM" username="p596561" useOpenSSHConfig="true">
+        <option name="customName" value="LIVE-BIKE-IT@mittwald" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

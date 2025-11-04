@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="31bd455a-6f01-4e7e-9684-e5f895bdd486" name="LIVE-BIKE-IT@mittwald">
+        <fileTransfer accessType="SFTP" host="bikeit.de" port="22" sshConfigId="1a9f842c-6428-4a28-8b87-c895756ba7fd" sshConfig="LIVE-BIKE-IT@mittwald">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
